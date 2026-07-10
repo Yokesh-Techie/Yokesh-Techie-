@@ -17,16 +17,11 @@ A results-driven **Analytics Professional** passionate about translating operati
 
 ---
 
-### 📂 Featured Analytics Projects
+### 📈 Professional Value & Impact
 
-#### 📊 [Uber Eats Analytics Dashboard](YOUR_GITHUB_LINK_HERE)
-- Built an end-to-end Power BI dashboard analyzing food delivery operations to identify inefficiencies.
-- Segmented customers by tier and age group to uncover revenue concentration patterns.
-
-#### 🍕 [Domino’s Sales Analytics](YOUR_GITHUB_LINK_HERE)
-- Designed and optimized a MySQL relational database to generate sales and revenue insights.
-- Utilized advanced JOINs, aggregations, and window functions to uncover top-selling items.
-
+- **Operational Efficiency:** Experienced in boosting reporting accuracy by up to 80% through automated dashboards.
+- **Root-Cause Analysis:** Skilled at deep-dive log and metric analysis to reduce system escalations and resolution times.
+- **Data Governance:** Strong foundational grasp of data validation, ensuring data pipelines are clean, reliable, and secure.
 ---
 
 ### 📈 Professional Highlights
